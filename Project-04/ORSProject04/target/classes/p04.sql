@@ -2,7 +2,8 @@
 SQLyog Ultimate v9.02 
 MySQL - 5.0.24-community-nt : Database - demo_ors
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -14,7 +15,7 @@ MySQL - 5.0.24-community-nt : Database - demo_ors
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`demo_ors` /*!40100 DEFAULT CHARACTER SET latin1 */;
 
-USE `demo_ors`;
+USE `p04`;
 
 /*Table structure for table `st_college` */
 
